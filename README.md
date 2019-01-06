@@ -29,7 +29,7 @@ make
 ```
 ## Technologies:
  
- ###Qt contains developer tools that were used to create the project:
+ ### Qt contains developer tools that were used to create the project:
  
  Qt Creator - a cross-platform development environment for C ++, Phyton and QML
  
@@ -37,7 +37,7 @@ make
  
  Qt Desiner - Qt Designer is the Qt tool for designing and building graphical user interfaces (GUIs)
  
- ###Classes:
+ ### Classes:
  
 QCustomPlot - full documentation https://www.qcustomplot.com
 
